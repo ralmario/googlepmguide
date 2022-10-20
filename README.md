@@ -10,16 +10,18 @@
     
     - A document that contains all the details of the project. 
     - Clearly defines the project and its goals and outline what is needed to accomplish them
-    - allows you to get organized, set up a framework for what needs to be don,e and communicate those details to others
+    - allows you to get organized, set up a framework for what needs to be done, and communicate those details to others
     - See *[Project Charter Sample.JPG](https://github.com/ralmario/googlepmguide/blob/e441590e578e086ed23739327b8c5a3dd43d7e05/Documents/Project%20Initiation/Project%20Charter%20Sample.jpg)*
 
 ### Goals
 
 #### Setting SMART goals
 
-- specific (how long and when you accomplished it), measurable (via metric, benchmarks), attainable (can be reached), relevant (makes sense, worthwhile, sustainable) and time-bound (deadline, time-frame)
+- specific (how long and when you accomplished it), measurable (vimetricsic, benchmarks), attainable (can be reached), relevant (makes sense, worthwhile, sustainable), and time-bound (deadline, time-frame)
 
 #### OKR (Objectives + Key Results)
+
+- Use OKRs-Scorecard-Spreadsheet.xlsx as a template for defining and tracking progress
 
 ### Deliverables
 
@@ -27,7 +29,7 @@
 
 ## Scope
 
-- duringthe  initial planning stage
+- during the  initial planning stage
 
 #### Combating scope creep (*padagdag*) (must be all in writing)
 
@@ -56,10 +58,29 @@ Best practices for scope management and controlling scope creep:
 
 #### Use the Triple Constraint Model (scope, time, and cost)
 
-3 constraints will affect one another; Adjust the other constraint to implement changes on one (must be necessary only). e.g:
+3 constraints will affect one another; Adjust the other constraint to implementing changes on one (must be necessary only). e.g:
 
 - Scope (updates on features), Time (no extension) -> Increase costs
 
 - Costs (lowered budget), Time (no extension) -> Reduce scope
 
 - Costs (lowered budget), Scope (same features) -> Extend timeline
+
+## Success Criteria
+
+- Criteria must be established and tracked between the project timeline, not by the end of the project only
+
+- Examples of success criteria metric
+  
+  - happiness metrics (satisfaction/ease of use)
+  - customer satisfaction rate
+  - customer adoption rate
+  - customer engagement metric (participation over time)
+  - business-oriented metric (sales and growth)
+  - adoption metrics (usage without any issues)
+
+- List methods/tools, frequency, and data owner of each targeted metric/success criteria
+
+- Approve your success criteria to bosses (as a document)
+
+- Use *Success-Criteria-Template.docx* as a template
