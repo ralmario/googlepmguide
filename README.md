@@ -21,7 +21,7 @@
 
 #### OKR (Objectives + Key Results)
 
-- Use OKRs-Scorecard-Spreadsheet.xlsx as a template for defining and tracking progress
+- Use *[OKRs-Scorecard-Spreadsheet.xlsx](https://github.com/ralmario/googlepmguide/blob/25a8da854687e4ce9695004b453dfe12f159a003/Documents/Project%20Initiation/OKRs-Scorecard-Spreadsheet.xlsx)* as a template for defining and tracking progress
 
 ### Deliverables
 
@@ -83,4 +83,4 @@ Best practices for scope management and controlling scope creep:
 
 - Approve your success criteria to bosses (as a document)
 
-- Use *Success-Criteria-Template.docx* as a template
+- Use *[Success-Criteria-Template.docx](https://github.com/ralmario/googlepmguide/blob/25a8da854687e4ce9695004b453dfe12f159a003/Documents/Project%20Initiation/Success-Criteria-Template.docx)* as a template
