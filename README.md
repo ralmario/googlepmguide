@@ -93,11 +93,9 @@ Best practices for scope management and controlling scope creep:
 
 (1) List all stakeholders, (2) Level of their interest and influence, and (3) Level of their ability to participate and involvement
 
-
-
 **Four Quadrant:**
 
-![Stakeholder Analysis](https://i.imgur.com/zcShzWh.png)
+![Stakeholder Analysis](https://i.imgur.com/jVG60WI.png)
 
 1) Manage closely, key players
 
@@ -106,8 +104,6 @@ Best practices for scope management and controlling scope creep:
 3) Show consideration, keep in the loop 
 
 4) Monitor, keep in the know
-
-
 
 **Review**
 
@@ -162,7 +158,7 @@ Best practices for scope management and controlling scope creep:
    - when the project nears completion
    
    - discuss details later in the process
-   
-   
 
-*Use this **blank template** to start stakeholder analysis.*
+
+
+*Use this **[blank template](https://github.com/ralmario/googlepmguide/blob/6b0fe890bd4b27da873f1deb3b86ba0e25364e99/Documents/Project%20Initiation/Stakeholder%20analysis%20and%20power%20grid.pptx)** to start stakeholder analysis.*
