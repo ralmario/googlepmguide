@@ -84,3 +84,85 @@ Best practices for scope management and controlling scope creep:
 - Approve your success criteria to bosses (as a document)
 
 - Use *[Success-Criteria-Template.docx](https://github.com/ralmario/googlepmguide/blob/25a8da854687e4ce9695004b453dfe12f159a003/Documents/Project%20Initiation/Success-Criteria-Template.docx)* as a template
+
+## Project Roles and Responsibilities
+
+## Stakeholder Analysis
+
+#### 3 key steps:
+
+(1) List all stakeholders, (2) Level of their interest and influence, and (3) Level of their ability to participate and involvement
+
+
+
+**Four Quadrant:**
+
+![Stakeholder Analysis](https://i.imgur.com/zcShzWh.png)
+
+1) Manage closely, key players
+
+2) Meet their needs, consultants 
+
+3) Show consideration, keep in the loop 
+
+4) Monitor, keep in the know
+
+
+
+**Review**
+
+1) Bosses/Directors
+   
+   - high level of influence
+   
+   - doesn't involve in day-to-day tasks
+   
+   - medium interest level
+   
+   Engagement:
+   
+   - communicate regularly but no daily updates (weekly)
+   
+   - ensure project satisfaction
+
+2) Team members
+   
+   - both high levels of influence and interest
+   
+   Engagement:
+   
+   - daily communication to discuss project tasks
+
+3) Users/Customers
+   
+   - medium interests and influence level
+   
+   Engagement:
+   
+   - get feedback
+   
+   - occasional check-ins only
+
+4) Investors
+   
+   - low interest in daily operations
+   
+   - medium influence, can affect the budget
+   
+   Engagement:
+   
+   - giving periodic updates on project milestones and performance
+
+5) Employees involved after the project launch (e.g receptionist)
+   
+   - low influence and interest
+   
+   Engagement:
+   
+   - when the project nears completion
+   
+   - discuss details later in the process
+   
+   
+
+*Use this **blank template** to start stakeholder analysis.*
