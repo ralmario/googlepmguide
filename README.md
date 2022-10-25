@@ -159,6 +159,12 @@ Best practices for scope management and controlling scope creep:
    
    - discuss details later in the process
 
-
-
 *Use this **[blank template](https://github.com/ralmario/googlepmguide/blob/6b0fe890bd4b27da873f1deb3b86ba0e25364e99/Documents/Project%20Initiation/Stakeholder%20analysis%20and%20power%20grid.pptx)** to start stakeholder analysis.*
+
+## RACI Chart
+
+**4 Types of Participation:** responsible, accountable, consulted, and informed
+
+![RACI Chart](https://i.imgur.com/iQIgbIK.jpg)
+
+*Use this **[RACI Chart Template.xlsx]()** as template.*
