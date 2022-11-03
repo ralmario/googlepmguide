@@ -167,7 +167,7 @@ Best practices for scope management and controlling scope creep:
 
 ![RACI Chart](https://i.imgur.com/iQIgbIK.jpg)
 
-*Use this **[RACI Chart Template.xlsx]()** as template.*
+*Use this **[RACI Chart Template.xlsx](https://github.com/ralmario/googlepmguide/blob/7d31daf3d3028d9bf378166bb38705a044ff9d45/Documents/Project%20Initiation/RACI%20Chart%20Template.xlsx)** as template.*
 
 ## Resources
 
@@ -213,4 +213,4 @@ Contents:
 
 9. Measuring success (success criteria, metrics)
 
-*Use **[Project-charter-template.docx]()** as template for project charter.*
+*Use **[Project-charter-template.docx](https://github.com/ralmario/googlepmguide/blob/7d31daf3d3028d9bf378166bb38705a044ff9d45/Documents/Project%20Initiation/Project-charter-template.docx)** as template for project charter.*
