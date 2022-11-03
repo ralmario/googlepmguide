@@ -17,7 +17,7 @@
 
 #### Setting SMART goals
 
-- specific (how long and when you accomplished it), measurable (vimetricsic, benchmarks), attainable (can be reached), relevant (makes sense, worthwhile, sustainable), and time-bound (deadline, time-frame)
+- specific (how long and when you accomplished it), measurable (via metrics, benchmarks), attainable (can be reached), relevant (makes sense, worthwhile, sustainable), and time-bound (deadline, time-frame)
 
 #### OKR (Objectives + Key Results)
 
@@ -168,3 +168,49 @@ Best practices for scope management and controlling scope creep:
 ![RACI Chart](https://i.imgur.com/iQIgbIK.jpg)
 
 *Use this **[RACI Chart Template.xlsx]()** as template.*
+
+## Resources
+
+## Project Documentation
+
+**What to document:**
+
+- Problem
+
+- Project goals
+
+- Scope, deliverables, and stakeholders
+
+- Resorurces
+
+### Documentation (initiation phase)
+
+1. Project proposal
+
+2. Project charter
+
+![Project Charter](https://i.imgur.com/pkEhKTc.jpg)
+
+## Project Charter
+
+Contents:
+
+1. Title of the Project
+
+2. Executive Summary: a brief summary of the project
+
+3. Project Goals: SMART goals
+
+4. Deliverables: tangible outcomes
+
+5. Business Case/Background: reasoning for initiating the project
+
+6. Benefits and Costs: the results of the CBA analysis (benefits > costs)
+
+7. Scope (agreed inclusions and exclusions) and Exclusions: In-scope and out-of-scope
+
+8. Project Team (include additional stakeholders)
+
+9. Measuring success (success criteria, metrics)
+
+*Use **[Project-charter-template.docx]()** as template for project charter.*
