@@ -48,8 +48,8 @@ Members: team members identified in the RACI Chart, project stakeholders, and pr
 3. Examine those tasks and break them down further into sub-tasks.
 
 Templates:
-- Use *[WBS-Brainstorm-Diagram.pptx]()* as a brainstorming template or a simple guide.
-- Use *[WBS-Spreadsheet.xlsx]()* as a main, complete template.
+- Use *[WBS-Brainstorm-Diagram.pptx](https://github.com/ralmario/googlepmguide/blob/bfbf7b10d3d9440980c1086970b79c2e87a33606/Documents/Project%20Planning/WBS-Brainstorm-Diagram.pptx)* as a brainstorming template or a simple guide.
+- Use *[WBS-Spreadsheet.xlsx](https://github.com/ralmario/googlepmguide/blob/bfbf7b10d3d9440980c1086970b79c2e87a33606/Documents/Project%20Planning/WBS-Spreadsheet.xlsx)* as a main, complete template.
 
 
 
