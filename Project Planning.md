@@ -51,5 +51,42 @@ Templates:
 - Use *[WBS-Brainstorm-Diagram.pptx](https://github.com/ralmario/googlepmguide/blob/bfbf7b10d3d9440980c1086970b79c2e87a33606/Documents/Project%20Planning/WBS-Brainstorm-Diagram.pptx)* as a brainstorming template or a simple guide.
 - Use *[WBS-Spreadsheet.xlsx](https://github.com/ralmario/googlepmguide/blob/bfbf7b10d3d9440980c1086970b79c2e87a33606/Documents/Project%20Planning/WBS-Spreadsheet.xlsx)* as a main, complete template.
 
+### Project Plan
+
+#### Project Timeline
+
+-  **Importance of buffers (extra time added in the timeline or *pasobra*)**: Adding of *task buffers* (used primarily if the task are dependent with external factors or people outside the team and must be used sparingly if task is within the team's control) and *project buffers* (extra time for the overall project) to account for unexpected slowdowns or delays;
+
+#### Critical Path
+
+**Steps:**
+1. Capture all tasks on the project
+2. Set dependencies of each tasks if applicable. A dependency is the task that must be completed before the other tasks.
+3. Create a network diagram.
+	- Components: Path of the work from the start to the end of the project (starting task and ending task), parallel tasks and sequential tasks, non-essential tasks
+	![Network Diagram](https://i.imgur.com/eaS7Mew.png)
+4. Make estimates for each tasks.
+5. Find the critical path. Add up the durations for all of your “essential” tasks and calculate the longest possible path, you can determine your critical path.
+
+#### Time Estimations from Your Team
+1. Asking the right questions
+	- How long does it typically take you to [task] like this one?
+	- how complex are the steps to complete this task?
+	- What are the risks associated with this task?
+	- When do you think you can have this ready?
+2. Negotiate effectively
+	- How much faster could you go if I gave you this?
+	- What stopping you from going faster?
+	- What teams you need to get involved to help you with this?
+3. Empathy
+    - Consider team workload (with other projects), leave and holidays
+
+
+
+
+
+
+
+
 
 
