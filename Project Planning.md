@@ -64,7 +64,9 @@ Templates:
 2. Set dependencies of each tasks if applicable. A dependency is the task that must be completed before the other tasks.
 3. Create a network diagram.
 	- Components: Path of the work from the start to the end of the project (starting task and ending task), parallel tasks and sequential tasks, non-essential tasks
-	![Network Diagram](https://i.imgur.com/eaS7Mew.png)
+
+![Network Diagram](https://i.imgur.com/eaS7Mew.png)
+
 4. Make estimates for each tasks.
 5. Find the critical path. Add up the durations for all of your “essential” tasks and calculate the longest possible path, you can determine your critical path.
 
