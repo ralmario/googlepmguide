@@ -86,7 +86,7 @@ Templates:
 #### Gantt Chart
 - **Template (Google Sheets)**: https://docs.google.com/spreadsheets/d/1V1rFuDTA7qM-tnEibMYK2GQbD3G_l3Yz1kuj7Pmu1cc/template/preview
 - **Template (Google Sheets - Detailed)**: https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview
-- **Template (Excel)**: 
+- **Template (Excel)**: https://github.com/ralmario/googlepmguide/blob/ec342254eeea10d58fd8cca6295f5ca1e59b3ef2/Documents/Project%20Planning/Gantt-Chart-Template-Blank.xlsx
 
 ### Budgeting and Procurement
 #### Tips and best practices
@@ -123,6 +123,22 @@ Templates:
 - [Microsoft Excel Website Budget Template (applicable to any project)](https://templates.office.com/en-us/website-budget-tm04035480)
 - [Google Sheet Budget Template](https://docs.google.com/spreadsheets/d/1DuY4viZtcjPzhdC1EotnJMxLd61v0eYNkRtJwHGww8U/template/preview)
 
+#### Budget Management
+
+** Tips:**
+- 	Establish a sign-off plan and inform the appropriate stakeholders of any changes that occur (approval of budget change)
+- Establish which key stakeholder or upper boss will check for vendor or contractor time sheets and invoices (Finance? COO?)
+- Don't add costs or spend pre-approved budget without approval of the bosses.
+- Track everything related to budget which includes approved budget changes.
+- Set an acceptable limit for budget overruns (in percentage, e.g. 1%)
+
+** Terms: **
+- **Cash Flow**: the inflow and outflow of cash on your project
+- **CAPEX (Capital Expenses)**: an organization's major, long-term, upfront expenses, such as buildings, equipment, and vehicles;  assets that the company will own and keep
+- **Contingency Reserves or Buffers**: unds added to the estimated project cost to cover identified risks.
+- **Funding**: cash into your project
+- **Management Reserves**: used to cover the costs of unidentified risks, this estimate is typically between 5–10%
+- **OPEX (Operating Expenses)**: short-term or recurring expenses that are required for the day-to-day tasks involved in running the company, such as wages, rent, and utilities
 
 
 
