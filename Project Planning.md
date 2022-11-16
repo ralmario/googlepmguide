@@ -83,6 +83,49 @@ Templates:
 3. Empathy
     - Consider team workload (with other projects), leave and holidays
 
+#### Gantt Chart
+- **Template (Google Sheets)**: https://docs.google.com/spreadsheets/d/1V1rFuDTA7qM-tnEibMYK2GQbD3G_l3Yz1kuj7Pmu1cc/template/preview
+- **Template (Google Sheets - Detailed)**: https://docs.google.com/spreadsheets/d/1TauRTFipsWDWGqaw6tmqJeknKhVI5IjR5jJvBfVzfGw/template/preview
+- **Template (Excel)**: 
+
+### Budgeting and Procurement
+#### Tips and best practices
+- Break the budget by **milestone**.
+- Ask if the company has a **signing or spending policy**.
+- Add additional budget or buffer funds for **surprise expenses**.
+- Reference **historical data** from similar projects.
+- Utilize your **team, mentors, or manager**.
+- Add **timelines and tasks** to your budget.
+- Categorize different types of costs to **direct costs and indirect costs** (overhead costs).
+- Perform a **reserve analysis** (review all potention risks to your project).
+- Add **Planned Cost** and **Actual Cost** column in project budget document.
+
+#### Project Budget
+**Techniques:** (1) historical data (past projects), (2) leverage colleagues and experts, (3) use bottom-up approach (breakdown costs into cost per item then add up), (4) confirm accuracy (double-check), and (5) update budgetfrequently throughout the project execution (based on baseline or initial budget during project planning)
+
+**Steps:**
+1. Break project over tasks.
+2. Estimate cost of each item.
+3. Add estimates together.
+4. Add contigency and taxes.
+5. Seek approval from key stakeholders. 
+
+**Common Line Items for Costs:**
+- Cost estimates (for each tasks)
+- Material costs (hardware, software, equipment)
+- Fixed costs (one-time cost, will not change throughout the project)
+- Travelling expenses (travels and meals
+- Miscellaneous costs (additional costs)
+- Buffers and reserves (5% or more of the overall project budget)
+
+#### Templates
+- [Microsoft Excel Budget Templates](https://templates.office.com/en-us/budgets)
+- [Microsoft Excel Website Budget Template (applicable to any project)](https://templates.office.com/en-us/website-budget-tm04035480)
+- [Google Sheet Budget Template](https://docs.google.com/spreadsheets/d/1DuY4viZtcjPzhdC1EotnJMxLd61v0eYNkRtJwHGww8U/template/preview)
+
+
+
+
 
 
 
