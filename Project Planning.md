@@ -154,14 +154,14 @@ Templates:
 
 #### Procurement Documents
 - **Non-Disclosure Agreement (NDA)**: created during initiation phase, to keep confidential information
-- **Request for Proposal (RFP)**: created during selecting phase, outlines the details and requirements of a project to be passed on to vendors; view [guide and template here]().
+- **Request for Proposal (RFP)**: created during selecting phase, outlines the details and requirements of a project to be passed on to vendors; view [guide and template here](https://github.com/ralmario/googlepmguide/blob/2fe0fe20b975697a5702f36d50f0b81d5c01818e/Documents/Project%20Planning/Request%20for%20Proposal.jpg).
 - **Statement of Work (SOW)**: created during selecting phase, lays out the products and services a vendor or contractor will provide for the organization; view [guide and template here]().
 
 **Procurement Support**
 - Have the **contract review by a legal team** or **legal advisers**.
 
 ### Code of Ethics
-Code of Ethics for Project Managers (Project Management Institute): [Code of Ethics]() and [Ethical Decision Making Framework Ethics]()
+Code of Ethics for Project Managers (Project Management Institute): [Code of Ethics](https://github.com/ralmario/googlepmguide/blob/2fe0fe20b975697a5702f36d50f0b81d5c01818e/Documents/Project%20Planning/Code%20of%20Ethics%20(PMI).pdf) and [Ethical Decision Making Framework Ethics](https://github.com/ralmario/googlepmguide/blob/2fe0fe20b975697a5702f36d50f0b81d5c01818e/Documents/Project%20Planning/Ethical%20decision%20making%20framework%20(PMI).pdf)
 
 
 
