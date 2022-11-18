@@ -126,9 +126,9 @@ Templates:
 #### Budget Management
 
 ** Tips:**
-- 	Establish a sign-off plan and inform the appropriate stakeholders of any changes that occur (approval of budget change)
-- Establish which key stakeholder or upper boss will check for vendor or contractor time sheets and invoices (Finance? COO?)
-- Don't add costs or spend pre-approved budget without approval of the bosses.
+- 	Establish **a sign-off plan** and inform the appropriate stakeholders of any changes that occur (approval of budget change)
+- Establish which key stakeholder or upper boss will **check for vendor or contractor time sheets and invoices** (Finance? COO?)
+- **Don't add costs or spend additional budget** without approval of the bosses.
 - Track everything related to budget which includes approved budget changes.
 - Set an acceptable limit for budget overruns (in percentage, e.g. 1%)
 
@@ -139,6 +139,32 @@ Templates:
 - **Funding**: cash into your project
 - **Management Reserves**: used to cover the costs of unidentified risks, this estimate is typically between 5–10%
 - **OPEX (Operating Expenses)**: short-term or recurring expenses that are required for the day-to-day tasks involved in running the company, such as wages, rent, and utilities
+
+#### Vendor Management
+
+#### Procurement
+**Typical Procurement Process:**
+- **Initiating**: planning what you need to meet your project goals
+- **Selecting**: deciding which supplies and vendors to use
+- **Contract writing**: developing, reviewing, and signing contracts
+- **Controlling**: making payments and maintaining and ensuring quality
+- **Completing**: measuring your success
+
+**Agile Procurement Management:** Concept of a living contract for external vendors
+
+#### Procurement Documents
+- **Non-Disclosure Agreement (NDA)**: created during initiation phase, to keep confidential information
+- **Request for Proposal (RFP)**: created during selecting phase, outlines the details and requirements of a project to be passed on to vendors; view [guide and template here]().
+- **Statement of Work (SOW)**: created during selecting phase, lays out the products and services a vendor or contractor will provide for the organization; view [guide and template here]().
+
+**Procurement Support**
+- Have the **contract review by a legal team** or **legal advisers**.
+
+### Code of Ethics
+Code of Ethics for Project Managers (Project Management Institute): [Code of Ethics]() and [Ethical Decision Making Framework Ethics]()
+
+
+
 
 
 
