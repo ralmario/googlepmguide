@@ -202,7 +202,7 @@ Code of Ethics for Project Managers (Project Management Institute): [Code of Eth
 **Types of Dependency Risk:**
 ![Dependency Risk](https://i.imgur.com/5vTaHd8.png)
 
-**Dependency Graph Template**: link
+**Dependency Graph Template**: https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Planning/Simple%20Dependency%20Graph.png
 
 ##### Types of Risk Mitigation: 
 - Avoid, Minimize, Transfer (shift the responsibility of risk handling) and Accept
@@ -232,4 +232,4 @@ Contents:
 3. **High-level risks:**: direct level of communication, meeting agenda, collect feedback and insights on the mitigation plan
 
 #### Templates
-- [Sample Risk Management Plan](https://templates.office.com/en-us/budgets)
+- [Sample Risk Management Plan](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Planning/Sample%20Risk%20Management%20Plan.docx)
