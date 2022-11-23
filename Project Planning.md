@@ -163,17 +163,73 @@ Templates:
 ### Code of Ethics
 Code of Ethics for Project Managers (Project Management Institute): [Code of Ethics](https://github.com/ralmario/googlepmguide/blob/64a92ba6ca5830e96e30e430eb0cd73d7db6b39d/Documents/Project%20Planning/Code%20of%20Ethics%20-%20PMI.pdf) and [Ethical Decision Making Framework Ethics](https://github.com/ralmario/googlepmguide/blob/64a92ba6ca5830e96e30e430eb0cd73d7db6b39d/Documents/Project%20Planning/Ethical%20decision%20making%20framework%20-%20PMI.pdf)
 
+### Risk Management
 
+#### Risk Management Phases/Life Cycle:
+1. Identify the risk.
+2. Analyze the risk (likelihood and potential impact).
+3. Evaluate the risk (which risks to prioritize).
+4. Treat the risk (solutions or plans).
+5. Monitor and control the risk.
 
+#### Tools and Techniques in Identifying Risks
+- **Brainstorming** - meeting with the team (diversity: different perspectives, experiences, skill sets)
+- **Cause-and-Effect Diagram/Fishbone Diagram/Fishbone**: 
+![Fishbone Diagram](https://i.imgur.com/yk7fcry.png)
+- **Risk register**
+![Risk register](https://i.imgur.com/CU2uTzR.jpg)
+	**Steps to Create Risk Register:**
+	- Define the problem (indicated as green)
+	- Identify the categories.(indicated as blue rectangles)
+	- Brainstorm the causes of each category (indicated as straight lines)
+	- Analyze the causes (mitigate the cause)
 
+- **Probability and Impact Matrix** - assessing risk, prioritizing project risks
+![Probability and Impact Matrix](https://i.imgur.com/HRm6SNN.jpg)
+    **In scale of high, medium and low:**
+    - Probability: likelihood for a risk to occur
+    - Impact: damage a risk could cause if it occurs
+    - Probability + Impack: will determine Inherent Risk (measure of risk by its probability and impact)
 
+#### Types of Risk
+- Time risk
+- Budget risk
+- Scope risk
+- External risk (environmental risk, legal risk)
+- Single point of failure (catastrophic risk)
+- Dependency risk (internal and external dependency)
 
+**Types of Dependency Risk:**
+![Dependency Risk](https://i.imgur.com/5vTaHd8.png)
 
+**Dependency Graph Template**: link
 
+##### Types of Risk Mitigation: 
+- Avoid, Minimize, Transfer (shift the responsibility of risk handling) and Accept
 
+#### Risk Management Plan
+Contents:
 
+1. Title of the Project
 
+2. Author (Project Manager)
 
+3. Created and Updated Date
 
+4. Document Objective (outline risks to *Name of Project* and the plans to mitigate those risks)
 
+5. Risk Register for each Risk Type (Risk Description, Risk to the Project [high, medium and low], Mitigation Plan)
 
+6. Appendix (Probability and Impact Matrix):
+
+![robability and Impact Matrix Sample](https://i.imgur.com/PMqr3j8.png)
+
+#### Communicating Risks
+- Communicate medium- and high-level risks to stakeholders
+
+1. **Low-level risks:** simple email
+2. **Medium-level risks:** direct email with stakeholder with more specifics on the risk and detailed explanation of its mitigation plan, with link to the risk managament plan, with subject line in the email: [Urgent]
+3. **High-level risks:**: direct level of communication, meeting agenda, collect feedback and insights on the mitigation plan
+
+#### Templates
+- [Sample Risk Management Plan](https://templates.office.com/en-us/budgets)
