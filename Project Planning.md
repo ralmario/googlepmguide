@@ -233,3 +233,29 @@ Contents:
 
 #### Templates
 - [Sample Risk Management Plan](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Planning/Sample%20Risk%20Management%20Plan.docx)
+
+### Communication Plan
+
+Contents:
+
+1. Type of Communication (status updates, daily checkins)
+
+2. Recipients (stakeholders or core project team)
+
+3. Frequency
+
+4. Key Dates 
+
+5. Delivery Method (email, in-person meetings, formal presentation)
+
+6. Goal (Why?)
+
+7. Resource Links (communication resources)
+
+**Tips:**
+
+- List contact information and time zone in the communication plan
+- List monthly meetings for stakeholders and daily meetings/check ins for the core team as part of your communication plan
+
+#### Templates
+- [Communication Plan Template]()
