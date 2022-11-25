@@ -258,4 +258,16 @@ Contents:
 - List monthly meetings for stakeholders and daily meetings/check ins for the core team as part of your communication plan
 
 #### Templates
-- [Communication Plan Template]()
+- [Communication Plan Template](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Planning/Sample%20Risk%20Management%20Plan.docx)
+
+#### Documentation
+
+**Organize all your notes in one location**
+- Status/summary reports - for staff not in the core team
+- Full meeting notes - for the core team
+
+**Tips and Best Practices:**
+- Google Drive + Resource Link Spreadsheet (like table of contents)
+
+#### Templates
+- [Project Resource Links](x)
