@@ -270,4 +270,4 @@ Contents:
 - Google Drive + Resource Link Spreadsheet (like table of contents)
 
 #### Templates
-- [Project Resource Links](x)
+- [Project Resource Links](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Planning/Resource%20Dashboard%20Template.xlsx)
