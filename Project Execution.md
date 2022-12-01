@@ -14,7 +14,7 @@
 1. Gantt chart
    - for project with many dependencies, tasks, activities, or milestones, larger projects
    - for waterfall project management
-   - **Template**: [Gantt Chart Template.xltx](http://)
+   - **Template**: [Gantt Chart Template.xltx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Gantt%20Chart%20Template.xltx)
 2. Roadmap
    - for huge milestones, quarter-based
    - **Template**: https://docs.google.com/spreadsheets/d/1mtRKyj4nS5fja25lFNsCC8ZMnd7Z81yx_z-MtOEj5HM/template/preview?resourcekey=0-pEIsQsu6t8oHR5WWlMHYvw#gid=1672256879
@@ -23,4 +23,4 @@
    - for agile project management
    - **Template**: https://docs.google.com/spreadsheets/d/1KTRguVRxejznvLWGov7-WsSQ4U5uPYl4jLQLyiIAIU4/template/preview
 4. Project status report
-   - **Template**: [Project Status Report Template.xlsx](http://)
+   - **Template**: [Project Status Report Template.xlsx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Project%20Status%20Report%20Template.xlsx)
