@@ -24,3 +24,20 @@
    - **Template**: https://docs.google.com/spreadsheets/d/1KTRguVRxejznvLWGov7-WsSQ4U5uPYl4jLQLyiIAIU4/template/preview
 4. Project status report
    - **Template**: [Project Status Report Template.xlsx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Project%20Status%20Report%20Template.xlsx)
+
+### Risk
+- The use of a change request form of the organization, sample: Project Plan Change Summary Template.png
+
+ROAM Technique (Resolved, Owned, Accepted, Mitigated)
+1. Resolved - risk eliminated permanently
+2. Owned - owned risk and the owner will handle it
+3. Accepted -  nothing will be done
+4. Mitigated - reducting impact
+- Template: 
+
+### Dependencies
+**Steps to Manage Dependencies:**
+1. Proper identification (internal, external, mandatory  - legal/contractual, discretionary - test tasks or need in order to decide the final task)
+2. Recording dependencies (risk register)
+3. Continuous monitoring (meetings)
+4. Efficient communication
