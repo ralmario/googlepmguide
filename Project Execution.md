@@ -33,7 +33,7 @@ ROAM Technique (Resolved, Owned, Accepted, Mitigated)
 2. Owned - owned risk and the owner will handle it
 3. Accepted -  nothing will be done
 4. Mitigated - reducting impact
-- Template: 
+- Template: https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/ROAM%20Analysis%20Template.xlsx
 
 ### Dependencies
 **Steps to Manage Dependencies:**
