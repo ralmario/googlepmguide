@@ -26,7 +26,7 @@
    - **Template**: [Project Status Report Template.xlsx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Project%20Status%20Report%20Template.xlsx)
 
 ### Risk
-- The use of a change request form of the organization, sample: Project Plan Change Summary Template.png
+- The use of a change request form of the organization, sample: [Project Plan Change Summary Template.png](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Project%20Plan%20Change%20Summary%20Template.png)
 
 ROAM Technique (Resolved, Owned, Accepted, Mitigated)
 1. Resolved - risk eliminated permanently
