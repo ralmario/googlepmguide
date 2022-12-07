@@ -41,3 +41,16 @@ ROAM Technique (Resolved, Owned, Accepted, Mitigated)
 2. Recording dependencies (risk register)
 3. Continuous monitoring (meetings)
 4. Efficient communication
+
+### Escalating Issues and Changes
+- Escalating standars and practices
+- Timeouts and retrospectives
+
+1. Small change, individual: email
+2. Big change, group: team meeting
+
+
+- Escalation emails
+![Sample Guide on Escalation Email](https://i.imgur.com/d1EGOQn.png)
+
+
