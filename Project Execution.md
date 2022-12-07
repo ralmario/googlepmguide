@@ -109,7 +109,7 @@ Hold a Retrospective after:
 #### Conducting Retrospective
 - Maintain a positive tone throughout the retrospective, encourage 
 - Be considerate of teams outside of your own.
-- Template Document: [Retrospective Template.docx](http://)
+- Template Document: [Retrospective Template.docx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Retrospective%20Template.docx)
 
 ### Data Decision Making
 Types of project metrics:
