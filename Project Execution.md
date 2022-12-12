@@ -148,3 +148,17 @@ Engagement metrics:
 - responses to emails or updates
 - attendance at meetings
 - level of input
+
+#### Analyzing Data
+1. Data on tasks and activities
+2. Data or metrics that are most valuable
+
+- Use of always-updated project plan
+
+Six Steps of Data Analysis:
+1. **Ask:** What is the problem? Expectations?
+2. **Prepare:** collect and store data
+3. **Process:** cleaning data
+4. **Analyze**
+5. **Share:** data visualization
+6. **Act**
