@@ -112,7 +112,7 @@ Hold a Retrospective after:
 - Template Document: [Retrospective Template.docx](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Retrospective%20Template.docx)
 
 ### Data Decision Making
-Types of project metrics:
+**Types of project metrics:**
 1. Productivity metrics 
    - effectiveness and effiency of a project (milestone, task, projection, duration)
 2. Quality metrics
@@ -149,16 +149,94 @@ Engagement metrics:
 - attendance at meetings
 - level of input
 
-#### Analyzing Data
+### Data Analysis
 1. Data on tasks and activities
 2. Data or metrics that are most valuable
 
-- Use of always-updated project plan
+- Always update project plan as part of communication with stakeholders
 
-Six Steps of Data Analysis:
+**6 Steps of Data Analysis:**
 1. **Ask:** What is the problem? Expectations?
 2. **Prepare:** collect and store data
 3. **Process:** cleaning data
 4. **Analyze**
 5. **Share:** data visualization
 6. **Act**
+
+### Data Presentation
+**6 Steps for Storytelling:**
+1. Define your audience
+2. Collect the data
+3. Filter and analyze the data
+4. Choose a visual representation
+5. Shape the story
+6. Gather your feedback/trial run
+
+#### Data Visualizations
+- Dashboard
+- Burndown chart
+- Column chart
+- Pie chart
+- Infographics
+- Scatter plots
+- Bar graphs
+
+#### Presentations
+**Tips:**
+- Be precise, be flexible, be memorable
+- *Designing for five seconds* rule - audience should understand your visual in 5 secs.
+- Backup approach if you need to shorten your presentation
+- Practice, practice
+- Use stories and repetition
+- Create a conducive team atmosphere for feedback
+- Be present, always listen and ask questions
+- Recognize a job well done! Celebrate success
+
+### Leadership
+#### Teamwork
+Factors that impact team effectiveness:
+1. **psychological safety** (*with no risk of being labeled as ignorant, incompetent, doesn't lead to embarrassment*)
+2. **dependability** (*reliable team members*): *clearly communicate expectations*, *create an environment where your team feels comfortable negotiating with you*
+3. **structure and clarity** (*clear individual roles, plans and goals by*)
+4. **meaning** (*sense of purpose*)
+5. **impact** (*Does my work matters?*)
+
+#### Providing Air Cover
+- *Providing air cover* means there may come a time when you will need to prioritize the needs of your team over the wants of your stakeholders
+Ways:
+1. **Saying "No" without explicitly saying "No" paired with alternative solutions**
+   - Gently push back with a polite explanation if a request made by them won't be possible to complete under the current constraints—the scope, time, and/or cost—of the project.
+   - Politely offer to get back to the stakeholder with your response
+2. ** Intervening from behind the scenes**
+   - Avoid unreasonable request from stakeholders with your entire project team to avoid causing extra stress
+   - Consult with selected team members and come up with the alternative solution
+
+#### Team development and dynamics
+Stages of Team Development:
+1. **Forming** (Getting to know one another)
+   - Set project goals, roles, and context on the project
+2. **Storming** (team interacting and disagreeing)
+   - Focus on conflict resolution, listen to problems and guide team
+3. **Norming** (team is working together)
+   - Codify and reinforce established norms
+4. **Performing** (team works seamlessly)
+   - Delegate, motivate and provide feedback
+5. **Adjourning** stage (project wraps up)
+   - Celebrate final milestones
+
+#### Influencing
+**4 Steps:**
+1. Establish credibility (*expertise + network/relationsips*)
+2. Frame for common ground (*know your audience*)
+3. Provide evidence (*statistics + story*)
+4. Connect emotionally.
+
+**Common Mistakes:**
+- aggressive approaches
+- resisting compromise
+- not enough time establishing credibility, framing for common ground, providing evidence and connecting emotionally (or focusing too much in the argument)
+- assume that agreements can be worked out in a 1 conversation
+
+**Sources of Power:**
+1. **Organizational** (your role, willingness to share and listen to info, network and reputation)
+2. **Personal** (knowledge, expressiveness, history with the person, character)
