@@ -240,3 +240,41 @@ Stages of Team Development:
 **Sources of Power:**
 1. **Organizational** (your role, willingness to share and listen to info, network and reputation)
 2. **Personal** (knowledge, expressiveness, history with the person, character)
+
+### Effective Communication
+- email, instant messaging
+- virtual meetings
+- work management and collaboration tools
+
+#### Organizing meetings
+Tips:
+- Limit to 1-2 topics, if possible
+- Send any pre-reading materials in advance
+- Digital shared meeting document for participants to write comments during meeting
+- Moderator + presentor
+
+**Checklist:**
+*Before the meeting*
+1. Agenda and share it
+2. Invite people
+3. Evaluate meeting if needed
+4. Shorten meetings
+
+*During the meeting*
+1. State goals and agenda
+2. Remind participants to put phones away
+3. Actively listen via verbally (e.g., "That makes sense. Tell us more.") and non-verbally (through head nodding and eye contact)
+4. Encourage participation
+5. Start meeting with personal questions like: How was your weekend?
+6. Capture key points, action items, and decisions
+
+*After the meeting*
+1. Recap key decision, action items and send it.
+2. Schedule follow-up if necessary
+3. Schedule meetings less frequently, if possible.
+
+**Types of Project Management Meetings:**
+1. project kick-off (pax: team, stakeholders)
+2. status updates (agenda: task updates, schedule tasks, budget status, current and anticipated issues, action items)
+3. stakeholder reviews (buy-in and support)
+4. project review/retrospective (leasons learned, celebration)
