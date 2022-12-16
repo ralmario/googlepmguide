@@ -278,3 +278,72 @@ Tips:
 2. status updates (agenda: task updates, schedule tasks, budget status, current and anticipated issues, action items)
 3. stakeholder reviews (buy-in and support)
 4. project review/retrospective (leasons learned, celebration)
+
+### Project Closure
+**Criteria of a Closed Project:**
+1. All work is done
+2. All agreed project management processes are executed
+3. Formal recognition and agreement from key stakeholders that the project is done
+
+#### Closing Process
+*For Clients and Stakeholders:*
+- Decide the closing process: 1) A small closing at each milestone, especially if a milestone is final, 2) A formal, larger comprehensive closing phase at the very end, 3) Both
+
+**Process if you selected to conduct the closing process after each phase/milestone:**
+1. Refer to prior documentation if phase or milestone is met
+2. Put together closing documentation
+3. Conduct admistrative clouse of the procurement process (close contract, pay vendors etc)
+4. Make sure all stakeholders are aware that a phase, or project is ending
+5. Execute necessary follow up work
+
+**Prcoess if you selected to conduct a formal, larger comprehensive closing phase at the very end:**
+1. Provide the necessary training, tools, documentatio, and capability to use your product
+2. Ensure that the project has satisfied its goals and desired outcomes
+3. Document acceptance from all stakeholders (retrospectives, project completion project, formal sign-off)
+4. Review all contracts and documentation, include the whole team
+5. Conduct a formal retrospective
+6. Disband and thank the project team
+7. Do impact reporting or impact evaluation (what the project add value)
+
+Demonstrating project impact:
+1. Highlight key performance areas (how you met your objectives via KPI, schedule and performance performances, cost savings and efficiencies)
+2. Use metrics to showcase your results:
+    - Improvement in schedule performance
+    - Revenue growth
+    - Positive return on investment (ROI)
+    - Increased external user counts
+    - Increased percentage of internal users 
+    - Cost vs. margins
+    - High percentage of customer satisfaction 
+    - Reduction in overhead
+    - Reduction in technical issues
+    - Time saved
+3. Prepare an effective impact report presentation (play demos, testimonials, case studies)
+
+*For The Team:*
+- Conduct retrospective within the team
+- Celebrate job success
+- Establish a culture of blamelessness
+
+*For The Project Manager:*
+- Project Closeout Report ([template](http://))
+
+**Contents:**
+1. Executive Summary
+2. Key Accomplishments
+3. Lessons Learned
+4. Open Items
+5. Next Steps and Future Considerations
+6. Project Timeline
+7. Resources and Project Archives
+8. Acknowledgements
+
+
+
+
+
+
+
+
+
+
