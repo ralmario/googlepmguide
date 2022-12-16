@@ -326,7 +326,7 @@ Demonstrating project impact:
 - Establish a culture of blamelessness
 
 *For The Project Manager:*
-- Project Closeout Report ([template](http://))
+- Project Closeout Report ([template](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Execution/Project%20Closeout%20Report%20Template.docx))
 
 **Contents:**
 1. Executive Summary
