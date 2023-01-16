@@ -49,3 +49,57 @@ Read more here: https://agilemanifesto.org/
 
 #### Development Team
 - do the work to build the product
+
+### Product Backlog
+- guide and roadmap of your product
+- a living document (always updated), owned by the Product Owner, prioritized list of features/requirements
+
+**Best Practices:**
+1. **clear item descriptions**, includes essential details, such as an action and location
+2. for the value field, rate on **how much it provides business value **(scrum team decisions)
+3. for estimate value, **indicate how much effort the Scrum team needs to complete **(Low, Medium, and High), owned by the Development team
+4. add an order or priority list
+
+The goal is **to include as you can while not stressing about the unknowns too much**, you can study each tasks in more detail when it is higher on the priority list.
+
+Read more here: https://scrumguides.org/scrum-guide.html#product-backlog
+
+#### User Stories
+- create a solution that's always centered around the user and the user experience
+3 elements: User, Action, Benefit
+
+- Use this format: As a [user role] I want this [action] so that I can get this [value].
+
+User stories must be independent (no additional needed context), negotiable, valuable, estimable, small (1 story = 1 sprint), testable (**INVEST**).
+
+- If a user story is too big, it should be broken down into smaller stories.
+- **Epic** -  a group of collection of user stories
+
+**Develop a acceptance criteria to each user story** (what can the user to with this user story, steps or features)
+
+**Example**:
+
+- User Story: As a **Virtual Verde client** (user role), I would like to **acquire a bonsai tree** (action) so that I** can have a beautiful plant and I can meditate as I trim the branches** (value).
+
+- Acceptance Criteria:
+![Acceptance Criteria](https://i.imgur.com/Iq0RYR9.png)
+
+**Best Practices**:
+- include the following components: user persona (personality), definition of Done, tasks to complete the user story, and any feedback already provided.
+
+**Product Backlog Template:** 
+
+#### Backlog Refinement
+
+**Best Practices for Refining the Product Backlog:**
+- contains the appropriate items
+- items prioritized by the Product Owner
+- items at the top are ready for delivery with clear acceptance criteria
+- items must inclues estimates or informed assessment
+
+#### Relative Estimation
+- comparing the effort of one task to another task and that becomes the estimate
+
+**2 Common Relative Estimation:**
+1. T-shirt Size: identify a task that is considered a "Medium" and compare it to other tasks and assign a T-shirt size
+2. Story points: use of Fibonacci number to determine effort and risk
