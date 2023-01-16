@@ -87,7 +87,7 @@ User stories must be independent (no additional needed context), negotiable, val
 **Best Practices**:
 - include the following components: user persona (personality), definition of Done, tasks to complete the user story, and any feedback already provided.
 
-**Product Backlog Template:** 
+**Product Backlog Template**: [Template](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Agile%20Management/Product%20Backlog%20Template.xlsx)
 
 #### Backlog Refinement
 
