@@ -155,7 +155,7 @@ User stories must be independent (no additional needed context), negotiable, val
 6. Copy all items to be done in the current Sprint in the Sprint Backlog tab, total estimate points all of Sprint items must be below or above the set Point Capacity
 7. Ensure that the total value points all of Sprint items in the current Sprint must be larger than the next Sprint.
 
-You may use [this template](http://) as a base of the Sprint Backlog and Sprint Plan.
+You may use [this template](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Agile%20Management/Sprint%20Backlog%20Sample.xlsx) as a base of the Sprint Backlog and Sprint Plan.
 
 #### Daily Scrum/Daily Standup
 - daily, same time and place, for 15 minutes
