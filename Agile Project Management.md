@@ -101,5 +101,93 @@ User stories must be independent (no additional needed context), negotiable, val
 - comparing the effort of one task to another task and that becomes the estimate
 
 **2 Common Relative Estimation:**
-1. T-shirt Size: identify a task that is considered a "Medium" and compare it to other tasks and assign a T-shirt size
-2. Story points: use of Fibonacci number to determine effort and risk
+1. **T-shirt Size**: identify a task that is considered a "Medium" and compare it to other tasks and assign a T-shirt size
+2. **Story points**: use of Fibonacci number to determine effort and risk
+
+#### Sprints/Iterations (mini-project)
+- amount of work based on the historical capacity of the team
+- must have strict deadlines or in a timebox (1 to 4 weeks)
+
+**5 Events of Scrum:**
+1. The sprint
+2. Sprint Planning
+3. Daily Scrum
+4. Sprint Review
+5. Sprint Retrospective
+
+**Considerations in Setting a Timebox:**
+1. frequency of changes
+   - if needs are ever changing = 1 week/Sprint
+   - if needs are more stable = > 1 week/Sprint
+2. Needed focus time by the Development Team
+   - baseline effort + 1 week (common is 1 week + 1 week)
+3. Overhead on the Product delivery
+   - if each Sprint output/product needs extensive review or testing after development = 3-4 weeks/Sprint
+
+**During the Sprint:**
+- No changes are made that would endanger the Sprint Goal
+- Quality does not decrease
+- The Product Backlog is refined as needed
+- Scope may be clarified and renegotiated with the Product Owner
+
+#### Planning a Sprint
+- planned by the entire Scrum team
+
+**Sprint Backlog**
+  - items from the Backlog that will be done during this sprint
+  - subset of items from the Product Backlog
+
+**Essential Points during Sprint planning:**
+1. Availability of staff during this Sprint
+2. Conflicts from staff such as vacation leaves
+3. Average velocity of work (How many points or Backlog items have been done in one Sprint?)
+4. Accomplishments that needs to be done during this Sprint
+5. Ultimate Sprint goal
+6. Methods to finish work
+7. Staff responsible for each tasks
+
+**Creating a Sprint Backlog Spreadsheet**
+1. Assign all items for each Epic in the Product Backlog tab (columns include Epic title, User Story Title, Story, Acceptance Criteria, Value, Estimate, Sprint)
+2. Add Value for each item (ranging from $ to $$$) with minimal value to greatest value
+3. Add Estimate via Story Points (Fibonacci sequence)
+4. Assign the Sprint Type of each item (Current Sprint, Next Sprint etc.)
+5. In the Sprint Backlog tab, add the Point Capacity of the team, which is commonly at 60 points
+6. Copy all items to be done in the current Sprint in the Sprint Backlog tab, total estimate points all of Sprint items must be below or above the set Point Capacity
+7. Ensure that the total value points all of Sprint items in the current Sprint must be larger than the next Sprint.
+
+You may use [this template](http://) as a base of the Sprint Backlog and Sprint Plan.
+
+#### Daily Scrum/Daily Standup
+- daily, same time and place, for 15 minutes
+
+**Questions to Be Asked:**
+- What did you do yesterday?
+- What you will do today?
+- Do you have any immpediments/blockers?
+
+#### Sprint Review
+- at end of each Sprint, less than 4 hours
+
+**Covers:**:
+- checking of Product Backlog items that considered done
+- demo the product, what is produced after a given Sprint (**Product Increment**)
+
+Consider if a Product Increment is already a** Minimum Viable Product (MVP)** which a version of a product with just enough features to satisfy early customers.
+
+#### Sprint Retrospective
+- up to 3 hours
+
+**Covers:**
+- Working (or not working) regarding the people, processes and tools for the team
+- Improvements for the next Sprint
+- Improvements for the last Sprint that are working (or not)
+
+**Avoid:**
+1. Avoid too many gimmicks.
+2. Try not to only focus on the negative.
+3. Avoid changing processes after each retrospective.
+
+**Best Practices:**
+1. Ask open-ended, probing questions.
+2. Consider diverse styles of communication and participation (journaling, survey)
+3. Consider reflecting periodically on Scrum theory and values by asking specific questions.
