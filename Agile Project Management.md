@@ -101,7 +101,7 @@ User stories must be independent (no additional needed context), negotiable, val
 - comparing the effort of one task to another task and that becomes the estimate
 
 **2 Common Relative Estimation:**
-1. **T-shirt Size**: identify a task that is considered a "Medium" and compare it to other tasks and assign a T-shirt size
+1. **T-shirt Size**: identify a task that is considered a "Medium" and compare it to other tasks and assign a T-shirt size, assign a number to each size
 2. **Story points**: use of Fibonacci number to determine effort and risk
 
 #### Sprints/Iterations (mini-project)
@@ -151,7 +151,7 @@ User stories must be independent (no additional needed context), negotiable, val
 2. Add Value for each item (ranging from $ to $$$) with minimal value to greatest value
 3. Add Estimate via Story Points (Fibonacci sequence)
 4. Assign the Sprint Type of each item (Current Sprint, Next Sprint etc.)
-5. In the Sprint Backlog tab, add the Point Capacity of the team, which is commonly at 60 points
+5. In the Sprint Backlog tab, add the Point Capacity of the team, which is commonly at 60 points (measure this by average of points done on at least 3 Sprints)
 6. Copy all items to be done in the current Sprint in the Sprint Backlog tab, total estimate points all of Sprint items must be below or above the set Point Capacity
 7. Ensure that the total value points all of Sprint items in the current Sprint must be larger than the next Sprint.
 
@@ -191,3 +191,29 @@ Consider if a Product Increment is already a** Minimum Viable Product (MVP)** wh
 1. Ask open-ended, probing questions.
 2. Consider diverse styles of communication and participation (journaling, survey)
 3. Consider reflecting periodically on Scrum theory and values by asking specific questions.
+
+#### Scrum Tools
+1. Burndown chart
+   - **Best Practices:**
+      - if running late on burndown, don't panic, find out how you can help and unblock them
+2. Computing velocity
+   - The measure of how many points the team burns down in a given Sprint on average.
+   - **Best Practices:**
+      - don't compare velocity to other teams (comparison metric)
+      - don't share velocity with stakeholders
+      - don't use velocity as a performance metric
+      - caution when using velocity as a metric for project delivery date (don't use estimated delivery dates as commitments)
+3. Kanban/Scrum board
+   - **Best Practices:**
+      - assign a *WIP limit* (Work in Progress limit)
+      - 3 categories: **To Do**, **Doing**, and **Done**, you may add additional category: **Blocked** **
+
+#### Scrum Software
+- scheduling and resource management tools: **Jira by Atlassian, Trello, spreadsheets**
+- Sprint Planning and Backlog management: **Asana**
+- documentation: **Word, Google Docs**
+- spreadsheets: **Excel, Google Sheets**
+- presentations: **Powerpoint, Google Slides**
+- collaboration and communication
+
+#### Review Video: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
