@@ -206,7 +206,7 @@ Consider if a Product Increment is already a** Minimum Viable Product (MVP)** wh
 3. Kanban/Scrum board
    - **Best Practices:**
       - assign a *WIP limit* (Work in Progress limit)
-      - 3 categories: **To Do**, **Doing**, and **Done**, you may add additional category: **Blocked** **
+      - 3 categories: **To Do**, **Doing**, and **Done**, you may add additional category: **Blocked**
 
 #### Scrum Software
 - scheduling and resource management tools: **Jira by Atlassian, Trello, spreadsheets**
@@ -217,3 +217,55 @@ Consider if a Product Increment is already a** Minimum Viable Product (MVP)** wh
 - collaboration and communication
 
 #### Review Video: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+
+#### Value Roadmap
+- mapping out the product development
+
+**3 Components:**
+1. Product vision
+2. Product roadmap
+3. Release plans (release goal, backlog item lists, est. release date, other relevant dates)
+
+**Benefits:**
+- clarifies sequence of deliverables
+- showing team efforts related to the ultimate goal
+- showing stakeholders incremental value
+- helping stakeholders the layout of the work
+
+**Avoid:**
+- letting stakeholders that the roadmap is set and permanent
+- too much fine-tuning of delivery dates
+- putting too much work in roadmap creation
+
+**Overall Best Practices:**
+- make it highly noticeable
+- indicate highest priority and value items
+- make it visible to stakeholders
+- conduct regular reviews to sponsors, users and team
+
+**Specific Tips**
+1. Product Roadmap
+   - product release dates are only rough estimates
+
+2. Release Plan
+   - Product Owner and Scrum Master
+   - Connect with team's capacity and velocity
+   - Factor in any "hard" dates or deadlines
+   - Scrum Master must review the release plan before starting a Sprint Planning session
+
+#### Change over following a plan
+**Process:**
+1. Identifying a needed change
+2. Deciding to make the change
+   - identify the "decider" of the change
+   - Develop and share what factors are important to the decision
+   - Openly discuss the benefits and costs of the decision
+   - Document the decision
+3. Implementing the change
+   - Document the change and decision-making process
+   - Capture the change in any affected artifacts
+   - Share the change with all affected stakeholders
+   - Monitor the change for a certain amount of time
+
+#### Template:
+- [Release plan template](http://)
