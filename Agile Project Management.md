@@ -355,7 +355,7 @@ Read more here: https://sourcesofinsight.com/influencer-the-power-to-change-anyt
 4. Disciplined Agile Delivery (DAD)
 5. Spotify Model
 
-Read more here: 
+Read more here: [Lecture on Scaling Agile](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Agile%20Management/Lecture%20-%20Scaling%20Agile.pdf)
 
 ## Applying for an Agile Project Manager Role
 - **Common Job Positions:** Agile Project Manager, Scrum Master, IT Agile Project Manager, DevOps Project Manager
