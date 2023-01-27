@@ -268,4 +268,129 @@ Consider if a Product Increment is already a** Minimum Viable Product (MVP)** wh
    - Monitor the change for a certain amount of time
 
 #### Template:
-- [Release plan template](http://)
+- [Release plan template](https://github.com/ralmario/googlepmguide/blob/main/Documents/Project%20Agile%20Management/Sample%20Release%20Plan.docx)
+
+### Transition Your Organization to Agile
+- understand the organization culture and change management process
+- implement a few changes incrementally if the organization is new to Agile
+
+#### Introducing Agile to Your Team
+- start small (start with a Kanban board, setup a retrospective after a major milestone)
+- listen to feedback (how it's going, get ideas)
+- be strategic, addresses challenges with improvement and new ways
+- find allies in your organization and networks
+
+#### Initiating the Transition
+**What to Do:**
+1. Find an executive sponsor that will co-own or co-lead the change
+2. Point out connections between the changes you're making and the company's mission or values
+3. Get buy-in or support from someone at the top
+4. Ask what is and what's not working right now, and relate your changes as solutions to problems that arose
+   - *Example questions: *
+   - What is preventing us from providing the best product to our users? 
+   - What is allowing our competitors to outperform us in this market? 
+   - How can we help you become more productive and supported in their work?
+
+#### Influencing your Agile Team
+**3 Keys to Influence:**
+1. *Clarify measurable results* (what, why and when you want it)
+2. *Find vital behaviors* (identify vital behaviors of your team and promote that beneficial to the changes)
+3. *Use the 6 sources of influence* (Personal motivation, Personal ability, Social motivation, Social ability, Structural motivation, Structural ability)
+
+Read more here: https://sourcesofinsight.com/influencer-the-power-to-change-anything/
+
+#### Coaching Your Agile Team
+**3 Steps:**
+1. *Design the plays with the team* (involve the team in planning, decisions and processes)
+2. *Provide real-time and meta feedback to the team*
+3. *Celebrate and learn with the team*
+
+#### Challenges on Your Agile Team
+1. Value delivery issues
+   - missing expected delivery dates
+   - burned out
+   - too many items "in progress"
+   - **Solutions**: More demos of the whole product, retrospectives, understanding "done" means, focus on few user stories per Sprint
+2. Business collaboration issues
+   - overwhelmed team with critical feedback or change requests (lead to avoiding feedback of clients and complaints on the requested changes)
+   - "Us vs. Them" mentality (team vs. management)
+   - **Solutions**: More demos, solution design Sprint (how to solve a problem by meeting with all involved), adding changes to the Backlop only between Sprints
+3. Team dynamics and culture issues
+   - low team morale
+   - lots of conflict
+   - low conflict, not a safe environment
+   - **Solutions**: team brainstorm session (best and worst team), change up workflows, training class, retrospectives
+
+#### Challenges on Agile Coaching
+1. Unstable product roadmap caused by product ambition (over-ambitious)
+   - **Solutions:**
+     - Agree up front how to handle new opportunities
+     - Set up regular roadmap reviews with the entire team
+     - Promote sharing knowledge between the Product Owner and the Development Team
+2. Unstable product roadmap caused by too many product assumptions
+   - **Solutions:**
+     - Dccument your assumption and share it to the team
+     - Conduct unbiased research (surveys, focused groups) to check assumptions
+3. Incomplete implementation of Scrum
+   - lack of clear roles, skip or blend Scrum events, no Scrum coaching
+   - **Solutions:**
+     - Implement Scrum completely
+     - Roles are well defined and fulfilled
+4. Lack of team stability (changes on team composition)
+   - **Solutions:**
+     - quick onboarding process
+     - Pair Programming
+     - shorter Sprints
+
+### Emerging Agile Methodologies
+- DevOps
+- Business agility
+- Agile in construction industry
+
+#### Scaling Agile
+**Popular Frameworks:**
+1. Scaled Agile Framework (SAFe)
+2. Scrum of Scrums
+3. Large Scale Scrum (LeSS)
+4. Disciplined Agile Delivery (DAD)
+5. Spotify Model
+
+Read more here: 
+
+## Applying for an Agile Project Manager Role
+- **Common Job Positions:** Agile Project Manager, Scrum Master, IT Agile Project Manager, DevOps Project Manager
+
+### Common Agile Project Manager Interview Questions
+1. What's the difference between Agile and Waterfall project management?
+   - **Ideal Responses:**
+     - Agile is abput more than just Scrum, Sprints, and Standups
+     - Agile is about founding values that include customer collaboration, value delivery, self-organizing teams
+     - Waterfall is not the worst project management approach
+     - Understanding that all projects benefit from certain types of approaches, including Waterfall
+   - **Sample Answer**
+     - Agile is an iterative process, and Waterfall is more linear. Both have their merits, depending on the project.
+2. Tell me more about your approach to Agile.
+   - **Sample Answer**
+     - I plan out the project to ensure customer collaboration, defined value delivery, and space for teams to organize themselves.
+3. How do you know when to use an Agile approach or framework on your project?
+   - **Ideal Responses:**
+     - Understands how Agile or Scrum can help a project manager with specific challenges
+   - **Sample Answer**
+     - When I learn that the requirements are still being defined, or that we need a phased delivery, I know to go with Agile.
+4. If you are facing resistance with your team following a Scrum or Agile practice, how do you convince them to give it a try?
+   - **Ideal Responses:**
+     - The candidate is aware of how to use communication and influence skills
+     - Evidence that the candidate truly believes that an Agile team can be self-organizing
+     - The candidate is someone who will work with a team and not try to force certain processes
+   - **Sample Answer**
+     - I start small. Kanban boards can be a nice entry point because they give my team bite-sized tasks to accomplish.
+
+### Questions for Your Interviewer
+1. How supportive is the management here towards blending project management approaches?
+2. What's the first thing I should know about the culture here?
+3. How often will I get to hear about the needs of our users or customers?
+4. What would a typical day look like for me if I were to take on this position?
+
+
+
+
